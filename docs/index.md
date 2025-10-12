@@ -17,8 +17,14 @@ The documentation for the `<BB>` building block is organised as follows...
 
 ## About `<BB>`
 
-Description of the purpose of the BB.
+The Processing Editor provides a GUI for creating and executing processes on EOEPCA backends.
 
 ## Capabilities
 
-Summary of the capabilities of the BB.
+Both the _openEO API_ and the _OGC API - Processes_ are supported.
+
+The functionalities include:
+
+- discovering available resources such as imagery collections and processing functions,
+- combining them into workflows using a GUI graph builder,
+- and submitting those for actual calculation, including job management and visualisation of the results.

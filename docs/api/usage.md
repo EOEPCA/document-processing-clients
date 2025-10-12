@@ -1,3 +1,3 @@
 # Usage
 
-API usage descriptions and examples.
+This building block does not provide an API.

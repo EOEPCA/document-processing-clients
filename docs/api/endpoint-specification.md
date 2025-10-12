@@ -1,3 +1,3 @@
 # Specification
 
-Details of the API specification.
+This building block does not provide an API.

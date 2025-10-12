@@ -1,3 +1,3 @@
 # Maintenance
 
-Administrative and remedial activities to be performed on a running BB instance
+This dashboard shows all running containers of the deployment: https://argocd.develop.eoepca.org/ (login with Github credentials)
